@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Margels (Martina Caccamo)
+Copyright (c) 2022 Margels
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
